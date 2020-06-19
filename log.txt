@@ -1,0 +1,23 @@
+commit b2ce1a59ef992b61f18bcf55c29081c598fd8c29
+Author: epluribusunum-BA <brian.p.allen@icloud.com>
+Date:   Fri Jun 19 11:34:08 2020 -0400
+
+    added to git ignore BPA
+
+commit d4b63cd17d29a233aaa6cb07478c633db1fb2f31
+Author: epluribusunum-BA <brian.p.allen@icloud.com>
+Date:   Fri Jun 19 11:30:08 2020 -0400
+
+    added gitignore
+
+commit 53380edc02c42b314adac0e9d3902de9678d5952
+Author: epluribusunum-BA <brian.p.allen@icloud.com>
+Date:   Fri Jun 19 11:22:04 2020 -0400
+
+    added two files
+
+commit d6e7261cfa73be77c4e455e26676e9f5760c5f6d
+Author: epluribusunum-BA <brian.p.allen@icloud.com>
+Date:   Fri Jun 19 11:20:01 2020 -0400
+
+    added readme.txt
