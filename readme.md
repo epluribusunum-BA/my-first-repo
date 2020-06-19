@@ -1,29 +1,27 @@
-# This is a large heading
+# Brian Allen
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Williamsburg, in the state of Virginia, in the United States
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Orgin of Species* by Charles Darwin 
+- *I Robot* by Isaac Asimov 
+- *Dune* by Frank Herbert 
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Home.
+2. anywhere else.
+3. thats it I'm not that hungry.
+
+### Contact
+
+The best way to get in touch with me is not to...
 
